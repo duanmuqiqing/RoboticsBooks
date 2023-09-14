@@ -60,3 +60,7 @@ diff 效果：
 $$
 \frac{\mathrm{d}x}{\mathrm{d}y}\cos x+\sin y=1
 $$
+
+$$
+a^2+b^2=c^2
+$$
